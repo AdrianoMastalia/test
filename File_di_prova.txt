@@ -1,2 +1,3 @@
 Ciao sono Adriano Mastalia
 Provo ad aggiornare il file dalla rete
+Questa riga invece la scrivo dal PC
