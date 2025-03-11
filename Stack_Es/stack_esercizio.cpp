@@ -48,4 +48,6 @@ int main(void){
 		s1.push(numero);
 	}
 	s1.print();
+	s1.pop();
+	s1.print();
 }
